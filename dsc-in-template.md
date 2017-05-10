@@ -1,6 +1,6 @@
 Add the following variables:
 
-"modulesUrl": "https://raw.githubusercontent.com/<github-username>/iac-hackathon-dsc/master/WebsiteInstall.zip",
+"modulesUrl": "https://raw.githubusercontent.com/jonlangridge/iac-hackathon-dsc/master/WebsiteInstall.zip",
 "dscScript": "WebsiteInstall.ps1",
 "configurationFunction": "Main"
 
